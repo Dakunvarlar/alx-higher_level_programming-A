@@ -7,8 +7,8 @@ def main():
     sum = 0
     for i in range(1, argc):
         sum += int(sys.argv[i])
-    print(sum)
+i    print(sum)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()

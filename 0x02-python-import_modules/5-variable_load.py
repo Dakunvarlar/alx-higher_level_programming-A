@@ -5,5 +5,5 @@ from variable_load_5 import a
 def main():
     print(a)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()

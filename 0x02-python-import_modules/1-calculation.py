@@ -9,4 +9,4 @@ def main():
     print("{} * {} = {}".format(a, b, mul(a, b)))
     print("{} / {} = {}".format(a, b, div(a, b)))
 
-if _name_ == "_main_"
+if __name__ == "__main__"
