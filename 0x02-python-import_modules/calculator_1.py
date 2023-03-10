@@ -16,7 +16,7 @@ def sub(a ,b):
         a: first integer
         b: second integer
     Returns:
-        The return value, a - b
+        The return value. a - b
     """
     return (a - b)
 
