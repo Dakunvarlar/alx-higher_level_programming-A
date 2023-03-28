@@ -53,4 +53,50 @@ Write the Python function def magic_calculation(a, b): that does exactly the sam
 Score: 65.0% (Checks completed: 100.0%)
 Write a program that prints the alphabet in uppercase, followed by a new line.
 
+## 10. a + b
+mandatory
+Score: 100.0% (Checks completed: 100.0%)
+Write a function that adds two integers and returns the result.
 
+## 11. a ^ b
+mandatory
+Score: 100.0% (Checks completed: 100.0%)
+Write a function that computes a to the power of b and return the value.
+
+## 12. Fizz Buzz
+mandatory
+Score: 100.0% (Checks completed: 100.0%)
+Write a function that prints the numbers from 1 to 100 separated by a space.
+
+For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
+For numbers which are multiples of both three and five print FizzBuzz.
+Prototype: def fizzbuzz():
+Each element should be followed by a space
+You are not allowed to import any module
+
+## 13. Insert in sorted linked list
+mandatory
+Score: 75.0% (Checks completed: 75.0%)
+Technical interview preparation:
+
+You are not allowed to google anything
+Whiteboard first
+Write a function in C that inserts a number into a sorted singly linked list.
+
+Prototype: listint_t *insert_node(listint_t **head, int number);
+Return: the address of the new node, or NULL if it failed
+
+## 14. Smile in the mirror
+#advanced
+Score: 100.0% (Checks completed: 100.0%)
+Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
+
+## 15. Remove at position
+#advanced
+Score: 100.0% (Checks completed: 100.0%)
+Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
+
+## 16. ByteCode -> Python #2
+#advanced
+Score: 100.0% (Checks completed: 100.0%)
+Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python byte
